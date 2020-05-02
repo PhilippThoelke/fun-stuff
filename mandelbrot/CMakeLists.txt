@@ -14,4 +14,4 @@ add_executable(MandelbrotImage MandelbrotImage.cpp)
 target_link_libraries(MandelbrotImage SDL2)
 
 add_executable(MandelbrotASCII MandelbrotASCII.cpp)
-target_link_libraries(MandelbrotASCII SDL2)
+target_link_libraries(MandelbrotASCII)
