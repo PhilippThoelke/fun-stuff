@@ -11,6 +11,8 @@ Execute: `./drawImage path/to/img`
 Photo
 ---
 ![Photo](../.images/cat.jpg)
+
+
 ASCII
 ---
 ![ASCII](../.images/cat-ascii.png)
