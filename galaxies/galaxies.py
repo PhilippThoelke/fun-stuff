@@ -4,6 +4,8 @@ import cv2
 import torch
 from torch import nn
 
+torch.set_grad_enabled(False)
+
 
 class CPPN(nn.Module):
     def __init__(
