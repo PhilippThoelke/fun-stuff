@@ -10,9 +10,8 @@ Execute: `./drawImage path/to/img`
 
 Photo
 ---
-![Photo](../.images/cat.jpg)
-
+![cat](https://github.com/PhilippThoelke/fun-stuff/assets/36135990/aa000330-ff3b-43ad-9c59-74bdef969769)
 
 ASCII
 ---
-![ASCII](../.images/cat-ascii.png)
+![cat-ascii](https://github.com/PhilippThoelke/fun-stuff/assets/36135990/650a43b9-6f03-43ef-a491-6cc7e223cd4a)
