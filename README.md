@@ -3,4 +3,5 @@ A collection of small fun projects
 
 ## Currently contains:
 - interactive visualizations of the Mandelbrot set
-- picture to text converter
+- image to ascii converter
+- Compositional Pattern Producing Networks (CPPN) to generate galaxial images
